@@ -31,7 +31,6 @@ The map is set in the Universidad de Oriente
 ## Development Environment
 For its development, various programs were used, such as inskape and krita for the creation of the characters and Unity as the video game engine.
 
-## Animation Environment
 Unity offers an animator to create character animations
 ![Animation Environment](https://github.com/EulisesBrazon/brawludo/blob/master/Assets/Presentation%20images/Animation%20Environment.png)
 
