@@ -1,6 +1,6 @@
 # brawludo
 
-It is a melee combat game in which the members must digitize themselves to create the characters that interact, it was developed as part of the computer graphics course at the Universidad de Oriente.
+It is a melee combat game in which the members must be digitized to create the characters that interact, it was developed as part of the engineering course at the Universidad de Oriente, in the semester that ended around the month of April 2021
 
 The game has various scenarios such as the following:
 
